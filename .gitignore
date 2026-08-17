@@ -1,6 +1,4 @@
 # CRITICAL: Never commit real environment files
-.env
-.env.*
 !.env.example
 
 # Project-specific
@@ -422,3 +420,4 @@ admin/playwright-report/
 admin/test-results/
 playwright-report/
 test-results/
+config.bat
